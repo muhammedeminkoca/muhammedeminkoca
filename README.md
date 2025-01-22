@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, Ben Muhammed Emin Koca</h1>
 
-<!--
-**muhammedkca/muhammedkca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 Hakkımda
+
+- 🎓 Necmettin Erbakan Üniversitesi Mekatronik Mühendisliği 3. sınıf öğrencisiyim
+- 🤖 Robotik, otomasyon ve gömülü sistemler konularında kendimi geliştiriyorum
+- 💡 Yeni teknolojileri öğrenmeye ve projeler geliştirmeye her zaman açığım
+
+## 🛠 Teknik Yetenekler
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAD-A5915F?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+
+
+
